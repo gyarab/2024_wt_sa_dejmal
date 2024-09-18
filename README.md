@@ -7,5 +7,8 @@ V roce 1996 se stal členem Národní akademie inženýrství za přínos k teor
 
 V roce 2002 jeho výzkumná skupina dokázala vyřešit netriviální problém pomocí DNA výpočetní techniky. Konkrétně vyřešili problém SAT s 20 proměnnými, který měl více než milion možných řešení.
 
+
+![Leonard Adleman](https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg?download)
+
 # Zdroj
 [ChatGPT překlad wikipedie:](https://chatgpt.com/share/66eb4ae6-7ca0-8005-a09c-2f7866adbbc2) (https://en.wikipedia.org/wiki/Leonard_Adleman)
