@@ -1,2 +1,2 @@
-# Leonard Adleman (narozen 31. prosince 1945)
-...Leonard Adleman je americký počítačový vědec. 
+# Leonard Adleman (narozen 31. prosince roku 1945)
+...Leonard Adleman je americký počítačový vědec, který spolu s Ronaldem Linn Rivestem a Adi Šamirem vyvinul šiforovací algoritmus RSA, za který získal v roce 2002 Turingovu cenu. V roce 1968 získal na Kalifornské univerzitě v Berkeley titul B.A. v matematice a v roce 1976 titul Ph.D. v oboru elektrotechniky a informatiky. V roce 1996 se stal členem Národní akademie inženýrství za přínos k teorii výpočtů a kryptografie.
