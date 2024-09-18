@@ -10,7 +10,8 @@ V roce 2002 jeho výzkumná skupina dokázala vyřešit netriviální problém p
 
 ![Leonard Adleman](https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg?download)
 
-Obrázek z [](https://en.wikipedia.org/wiki/Leonard_Adleman)
+Obrázek z https://en.wikipedia.org/wiki/Leonard_Adleman
 
 # Zdroj
-[ChatGPT překlad wikipedie:](https://chatgpt.com/share/66eb4ae6-7ca0-8005-a09c-2f7866adbbc2) [](https://en.wikipedia.org/wiki/Leonard_Adleman)
+[ChatGPT překlad wikipedie:](https://chatgpt.com/share/66eb4ae6-7ca0-8005-a09c-2f7866adbbc2)
+https://en.wikipedia.org/wiki/Leonard_Adleman
