@@ -12,6 +12,12 @@ V roce 2002 jeho výzkumná skupina dokázala vyřešit netriviální problém p
 
 Obrázek z https://en.wikipedia.org/wiki/Leonard_Adleman
 
+## Shrnutí
+- Spolu s Ronaldem Linn Rivestem a Adi Šamirem vyvinul šiforovací algoritmus RSA.
+  - Získání Turingovy ceny roku 2002
+- Je známý pro vyřešení 2 problémů DNA výpočetní techniky.
+
 # Zdroj
 [ChatGPT překlad wikipedie:](https://chatgpt.com/share/66eb4ae6-7ca0-8005-a09c-2f7866adbbc2)
 https://en.wikipedia.org/wiki/Leonard_Adleman
+
