@@ -5,4 +5,6 @@
 
 Google ve svém velkém logu (nápisu) i malém logu (ikoně) použil 4 stejné barvy:
 - Červená: Materiálně asociována s krví nebo oheněm, konvenčně nebezpečí nebo zákaz.
-- Žlutá:   Materiálně asociována se sluncem, 
+- Žlutá: Materiálně asociována se sluncem, konvenčně aktivita, riziko, nebezpečí nebo výstraha.
+- Zelená: Materiálně asiciována rostlinnou zelení, konvenčně volno nebo bezpečí.
+- Modrá: Materálně asiciována se studenou vodou nebo ledem, konvenčně zvýšená pozornost, odměřenost nebo příkaz.
