@@ -8,3 +8,5 @@ Google ve svém velkém logu (nápisu) i malém logu (ikoně) použil 4 stejné 
 - Žlutá: Materiálně asociována se sluncem, konvenčně aktivita, riziko, nebezpečí nebo výstraha.
 - Zelená: Materiálně asiciována rostlinnou zelení, konvenčně volno nebo bezpečí.
 - Modrá: Materálně asiciována se studenou vodou nebo ledem, konvenčně zvýšená pozornost, odměřenost nebo příkaz.
+
+Psycologie barev u Googlu nesedí, protože si jednotlivé barvy odporují. Na druhou stranu může pestrá kombinace barev vzhledem k ostatním logům působit hezky a přitahovat tak zákazníky.
