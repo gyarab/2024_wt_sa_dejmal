@@ -10,3 +10,6 @@ Google ve svém velkém logu (nápisu) i malém logu (ikoně) použil 4 stejné 
 - Modrá: Materálně asiciována se studenou vodou nebo ledem, konvenčně zvýšená pozornost, odměřenost nebo příkaz.
 
 Psycologie barev u Googlu nesedí, protože si jednotlivé barvy odporují. Na druhou stranu může pestrá kombinace barev vzhledem k ostatním logům působit hezky a přitahovat tak zákazníky.
+
+## Zdroj
+[Obrázek z Wikipedie](https://upload.wikimedia.org/wikipedia/commons/f/fb/Sign%C3%A1ln%C3%AD_barvy.jpg)
